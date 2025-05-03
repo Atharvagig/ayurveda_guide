@@ -1,11 +1,14 @@
 # ayurveda_guide
-It is a website containing various old age nuskha of ayurvaidic knowledge
+It is a website containing various old age nuskha of ayurvaidic knowledge using bolt ai.
+Its preview can be seen here:
+https://cozy-gecko-3bba2f.netlify.app/
 
 Core Features:
-Implement a user-friendly search interface with an intuitive search bar
-Develop a symptom-based query system
-Include an extensive database of traditional Ayurvedic remedies
-Provide detailed remedy descriptions with preparation methods
+Implement a user-friendly search interface with an intuitive search bar.
+Develop a symptom-based query system.
+Include an extensive database of traditional Ayurvedic remedies.
+Provide detailed remedy descriptions with preparation methods.
+
 Database Requirements:
 Create a structured database containing:
 Common ailments and diseases
@@ -14,6 +17,7 @@ Historical effectiveness data
 Contraindications and precautions
 User queries and responses for continuous learning
 Training Dataset:
+
 Include information for common conditions:
 Digestive issues
 Respiratory problems
